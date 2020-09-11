@@ -13,3 +13,7 @@ this is going to be in working directory
 this is a going to be in loacl repo
 
 ## How to contribute
+
+## CopyRight
+
+added a copyright
