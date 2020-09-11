@@ -1,5 +1,7 @@
 # Starter Web Project
 
+this is a rebase example
+
 ## Introduction
 
 this is going to be staging area
