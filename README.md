@@ -19,3 +19,4 @@ please fork repo
 ## CopyRight
 
 added a copyright
+some intersting conflict is gonnna come :)
