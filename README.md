@@ -14,6 +14,8 @@ this is a going to be in loacl repo
 
 ## How to contribute
 
+please fork repo 
+
 ## CopyRight
 
 added a copyright
