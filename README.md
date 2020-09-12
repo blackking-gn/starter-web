@@ -21,6 +21,6 @@ please fork repo
 ## CopyRight
 
 added a copyright
-
-adding  NEW conflict line which is gonna be a real pain in ass
+ All the rights are reserved
+ 
 
